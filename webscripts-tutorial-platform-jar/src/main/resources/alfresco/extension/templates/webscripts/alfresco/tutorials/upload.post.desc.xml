@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Upload Sample Webscript</shortname>
+    <description>Upload file content</description>
+    <url>/sample/upload</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+</webscript>

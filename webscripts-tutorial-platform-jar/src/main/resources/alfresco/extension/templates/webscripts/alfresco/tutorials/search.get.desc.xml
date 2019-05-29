@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Search Sample Webscript</shortname>
+    <description>Search file name</description>
+    <url>/sample/search</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+</webscript>

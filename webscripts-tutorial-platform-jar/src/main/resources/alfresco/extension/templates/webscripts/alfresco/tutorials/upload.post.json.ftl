@@ -1,0 +1,4 @@
+{
+    "status": "${message}",
+    "nodeRef": "${nodeRef}"
+}

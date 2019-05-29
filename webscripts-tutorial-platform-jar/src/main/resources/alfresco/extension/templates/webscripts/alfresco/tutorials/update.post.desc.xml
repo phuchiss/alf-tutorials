@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Update File Properties Sample Webscript</shortname>
+    <description>Update file properties</description>
+    <url>/sample/update</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+</webscript>
