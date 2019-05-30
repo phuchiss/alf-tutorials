@@ -10,6 +10,11 @@ Run with `mvn clean install -DskipTests=true alfresco:run` or `./run.sh` and ver
  * Runs Alfresco Share
  * Packages both as JAR and AMP assembly for modules
  
+# POSTMAN Collection
+ 
+ * https://documenter.getpostman.com/view/4751290/S1TU3yeq?version=latest
+ * https://documenter.getpostman.com/view/4751290/S1TU3yer?version=latest
+ 
 # Few things to notice
 
  * No parent pom
